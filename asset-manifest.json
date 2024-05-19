@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/battle-forge/static/css/main.16be5021.css",
+    "main.js": "/battle-forge/static/js/main.d3d7b26c.js",
+    "static/media/background.jpg": "/battle-forge/static/media/background.7f207e2278a8acb5458c.jpg",
+    "static/media/5_movement.md": "/battle-forge/static/media/5_movement.7116109a801193e5950d.md",
+    "static/media/11_force_building.md": "/battle-forge/static/media/11_force_building.d1c47c1e182e1c6b7354.md",
+    "static/media/4_actions.md": "/battle-forge/static/media/4_actions.6917136ef819bdf88142.md",
+    "static/media/2_datasheets.md": "/battle-forge/static/media/2_datasheets.5cc3c636483019bbd15d.md",
+    "static/media/9_terrain.md": "/battle-forge/static/media/9_terrain.b97aa0fda4c95b227919.md",
+    "static/media/12_scenarios.md": "/battle-forge/static/media/12_scenarios.fa0ad800cbadf0a41e0d.md",
+    "static/media/14_skirmish.md": "/battle-forge/static/media/14_skirmish.275ba7430192fd581175.md",
+    "static/media/3_game_rounds.md": "/battle-forge/static/media/3_game_rounds.8df2cca21651e88e294a.md",
+    "static/media/6_fighting.md": "/battle-forge/static/media/6_fighting.491f2478a6397526f878.md",
+    "static/media/1_introduction.md": "/battle-forge/static/media/1_introduction.6885f2d6d74687e5f022.md",
+    "static/media/13_multiplayer.md": "/battle-forge/static/media/13_multiplayer.ccc3c77530eb505e97d7.md",
+    "static/media/10_powers.md": "/battle-forge/static/media/10_powers.689463232803f955185b.md",
+    "static/media/8_reactions.md": "/battle-forge/static/media/8_reactions.9fe5fed3145bf9391c90.md",
+    "static/media/7_shock.md": "/battle-forge/static/media/7_shock.38be7d0c92f085841fbb.md",
+    "index.html": "/battle-forge/index.html",
+    "main.16be5021.css.map": "/battle-forge/static/css/main.16be5021.css.map",
+    "main.d3d7b26c.js.map": "/battle-forge/static/js/main.d3d7b26c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16be5021.css",
+    "static/js/main.d3d7b26c.js"
+  ]
+}
