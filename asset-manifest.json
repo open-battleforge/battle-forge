@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/battle-forge/static/css/main.16be5021.css",
-    "main.js": "/battle-forge/static/js/main.3f7c3bd6.js",
+    "main.js": "/battle-forge/static/js/main.41fdc5fe.js",
     "static/media/background.jpg": "/battle-forge/static/media/background.7f207e2278a8acb5458c.jpg",
     "static/media/5_movement.md": "/battle-forge/static/media/5_movement.7116109a801193e5950d.md",
     "static/media/11_force_building.md": "/battle-forge/static/media/11_force_building.d1c47c1e182e1c6b7354.md",
@@ -19,10 +19,10 @@
     "static/media/7_shock.md": "/battle-forge/static/media/7_shock.38be7d0c92f085841fbb.md",
     "index.html": "/battle-forge/index.html",
     "main.16be5021.css.map": "/battle-forge/static/css/main.16be5021.css.map",
-    "main.3f7c3bd6.js.map": "/battle-forge/static/js/main.3f7c3bd6.js.map"
+    "main.41fdc5fe.js.map": "/battle-forge/static/js/main.41fdc5fe.js.map"
   },
   "entrypoints": [
     "static/css/main.16be5021.css",
-    "static/js/main.3f7c3bd6.js"
+    "static/js/main.41fdc5fe.js"
   ]
 }
