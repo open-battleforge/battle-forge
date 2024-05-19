@@ -228,7 +228,7 @@ export default function Home() {
       <Divider sx={{ py: 2 }} />
       <Container>
         <Gallery
-          images={images.map((img) => ({ imgPath: `/images/headers/${img.img}`, label: <ReactMarkdown components={mrender} className="rule-text" children={img.credit} /> }))}
+          images={images.map((img) => ({ imgPath: `/battle-forge/images/headers/${img.img}`, label: <ReactMarkdown components={mrender} className="rule-text" children={img.credit} /> }))}
           maxHeight={500}
         />
       </Container>
