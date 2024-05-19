@@ -11,7 +11,7 @@ export const useDataFetcher = (myUrl) => {
   const [userPrefs, setUserPrefs] = useState(localPrefs);
   const [appState, setAppState] = useState({});
   const [url, setUrl] = useState(
-    myUrl || "https://github.com/open-battleforge/battle-forge-data/main/"
+    myUrl || "https://raw.githubusercontent.com/open-battleforge/battle-forge-data/main/"
   );
   // Directly overwrite faction related stuff
   const overwrite = new Set([
@@ -36,9 +36,9 @@ export const useDataFetcher = (myUrl) => {
     "alliances",
   ]);
   // const missionUrl = "/data/missions/index.json";
-  const ruleUrl = "https://github.com/open-battleforge/battle-forge-data/main/rules/rules.md";
-  const skirmishRuleUrl = "https://github.com/open-battleforge/battle-forge-data/main/rules/rules_skirmish.md";
-  const racingRuleUrl = "https://github.com/open-battleforge/battle-forge-data/main/rules/rules_racing.md";
+  const ruleUrl = "https://raw.githubusercontent.com/open-battleforge/open-battleforge-data/main/rules/rules.md";
+  const skirmishRuleUrl = "https://raw.githubusercontent.com/open-battleforge/open-battleforge-data/main/rules/rules_skirmish.md";
+  const racingRuleUrl = "https://raw.githubusercontent.com/open-battleforge/open-battleforge-data/main/rules/rules_racing.md";
   const [isLoading, setIsLoading] = useState(false);
   const [isError, setIsError] = useState(false);
 
