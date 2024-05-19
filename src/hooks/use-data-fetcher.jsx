@@ -11,7 +11,7 @@ export const useDataFetcher = (myUrl) => {
   const [userPrefs, setUserPrefs] = useState(localPrefs);
   const [appState, setAppState] = useState({});
   const [url, setUrl] = useState(
-    myUrl || "https://raw.githubusercontent.com/dice-guild/battle-forge-data/main/"
+    myUrl || "https://github.com/open-battleforge/battle-forge-data/main/"
   );
   // Directly overwrite faction related stuff
   const overwrite = new Set([
